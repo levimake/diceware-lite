@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="how_create_password">
+
+        <item name="1">Random.org (Online)</item>
+        <item name="2">Dice (Preferred)</item>
+        <item name="3">Random (Offline)</item>
+
+    </string-array>
+
+    <string-array name="how_create_password_values">
+        <item name="1">random.org</item>
+        <item name="2">dice</item>
+        <item name="3">random_offline</item>
+    </string-array>
+
+
+    <string-array name="diceware_language_list">
+        <item name="1">Catalan</item>
+        <item name="2">Danish</item>
+        <item name="3">Dutch</item>
+        <item name="4">English</item>
+        <item name="5">Espanol</item>
+        <item name="6">Esperanto</item>
+        <item name="7">Finnish</item>
+        <item name="8">French</item>
+        <item name="9">German</item>
+        <item name="10">Italian</item>
+        <item name="11">Japanese</item>
+        <item name="12">Maori</item>
+        <item name="13">Norwegian</item>
+        <item name="14">Polish</item>
+        <item name="15">Portuguese</item>
+        <item name="16">Swedish</item>
+        <item name="17">Turkish</item>
+        <item name="18">EFF (large)</item>
+        <item name="19">EFF (short 1)</item>
+        <item name="20">EFF (short 2)</item>
+    </string-array>
+
+    <string-array name="diceware_language_list_values">
+
+        <item name="1">catalan</item>
+        <item name="2">danish</item>
+        <item name="3">dutch</item>
+        <item name="4">english</item>
+        <item name="5">espanol</item>
+        <item name="6">esperanto</item>
+        <item name="7">finnish</item>
+        <item name="8">french</item>
+        <item name="9">german</item>
+        <item name="10">italian</item>
+        <item name="11">japanese</item>
+        <item name="12">maori</item>
+        <item name="13">norwegian</item>
+        <item name="14">polish</item>
+        <item name="15">portuguese</item>
+        <item name="16">swedish</item>
+        <item name="17">turkish</item>
+        <item name="18">eff_large</item>
+        <item name="19">eff_short_1</item>
+        <item name="20">eff_short_2</item>
+
+    </string-array>
+
+    <string-array name="password_type">
+        <item name="1">PIN</item>
+        <item name="2">Alpha-numeric</item>
+        <item name="3">Passphrase</item>
+        <item name="4">ASCII</item>
+        </string-array>
+
+    <string-array name="password_type_values">
+        <item name="1">number</item>
+        <item name="2">alphanumeric</item>
+        <item name="3">passphrase</item>
+        <item name="4">ascii</item>
+    </string-array>
+
+</resources>

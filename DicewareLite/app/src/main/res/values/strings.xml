@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Diceware Lite</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="title_activity_enter_dice">Create</string>
+    <string name="title_activity_add_pass">Save</string>
+    <string name="title_activity_passwords_list_view">My Passwords</string>
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+
+    <string name="pref_number_of_words">Length</string>
+
+    <!-- Example settings for Data & Sync -->
+
+    <!-- Example settings for Notifications -->
+
+    <string name="splash_logo">splash_logo</string>
+    <string name="no_password_image">no_password_image</string>
+    <string name="remove_password_button">remove_password_button</string>
+    <string name="dice_one">dice_one</string>
+    <string name="dice_two">dice_two</string>
+    <string name="dice_three">dice_three</string>
+
+
+    <string name="help_activity_text">
+  <![CDATA[
+<h3><b> What is Diceware ? </b></h3><hr/> <br/>
+Diceware™ is a method for picking passphrases that uses dice to select words at random from a special list called the Diceware Word List. Each word in the list is preceded by a five digit number. All the digits are between one and six, allowing you to use the outcomes of five dice rolls to select a word from the list.
+<br/><br/>
+<b>Using Diceware</b><hr/><br/>
+For creating diceware passwords, you need one dice or more (preferably 5). Since dice are cheap, 5 is better. Now follow the steps for creating a diceware pass-phrase.<br/>
+<ul>
+<li> Go to the Settings from menu drawer.</li>
+<li>Choose the desired number of words required for your passphrase.</li>
+<li>Choose the language in which your pass phrase should be created and set the source to dice.</li>
+<li>Start rolling your dice and tap the dice face on the screen with the value you got when rolling your die.</li>
+<li>You are shown with the password when the required rolls are completed. </li>
+</ul>
+<b>Example</b><hr/><br/>
+  ]]>
+    </string>
+
+
+    <string name="action_help">Help</string>
+    <string name="zero_roll_message">Roll the die and Tap on the dicefaces.</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+
+</resources>

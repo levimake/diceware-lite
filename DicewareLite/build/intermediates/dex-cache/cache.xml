@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/levis/AndroidStudioProjects/DicewareLite3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/home/levis/AndroidStudioProjects/DicewareLite3/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.0_dc221dad1d4a924d82001e17b3793bd601f8a928.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/levis/.gradle/caches/modules-2/files-2.1/eu.the4thfloor.volley/com.android.volley/2015.05.28/b0b08cc0ac897e596abe6b263a9507cba875b705/com.android.volley-2015.05.28.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b0b08cc0ac897e596abe6b263a9507cba875b705">
+        <dex dex="/home/levis/AndroidStudioProjects/DicewareLite/app/build/intermediates/pre-dexed/release/com.android.volley-2015.05.28_4a57b91e7f91530c2725cf48a8bc9a80d31e5053.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/levis/AndroidStudioProjects/DicewareLite2/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="/home/levis/AndroidStudioProjects/DicewareLite2/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.1.0_d7d20343c354803883c0b9006a63b62dd36a9d0c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/levis/AndroidStudioProjects/DicewareLite3/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/home/levis/AndroidStudioProjects/DicewareLite3/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.0_d92a376d833f1880dfe74366b4993cac805696c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/levis/AndroidStudioProjects/DicewareLite3/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="/home/levis/AndroidStudioProjects/DicewareLite3/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.1.0_0cc05bb6ad440544ec003a96f890aa061ff9471b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/levis/AndroidStudioProjects/DicewareLite/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/home/levis/AndroidStudioProjects/DicewareLite/app/build/intermediates/pre-dexed/release/com.android.support-support-core-ui-25.1.0_617440df7b9b2204c39c21ee430fa8d487a75ec7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/levis/AndroidStudioProjects/DicewareLite3/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/home/levis/AndroidStudioProjects/DicewareLite3/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.0_ff32317635b655e5db330fbacf08552d5a528221.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/levis/AndroidStudioProjects/DicewareLite2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/home/levis/AndroidStudioProjects/DicewareLite2/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.0_4f117cf2b87606fc486bea267c94644a05232540.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/levis/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.1.5/ece7b5d0870e66d8226dab6dcf47a2b12afff061/rxjava-1.1.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ece7b5d0870e66d8226dab6dcf47a2b12afff061">
+        <dex dex="/home/levis/AndroidStudioProjects/DicewareLite/app/build/intermediates/pre-dexed/release/rxjava-1.1.5_c7ea810b41adc69fc89800b23f4c682085dee99a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/levis/AndroidStudioProjects/DicewareLite/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/home/levis/AndroidStudioProjects/DicewareLite/app/build/intermediates/pre-dexed/release/com.android.support-support-media-compat-25.1.0_03ee2ab75d46611656272c60208a059407ddde0b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/levis/AndroidStudioProjects/DicewareLite/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/home/levis/AndroidStudioProjects/DicewareLite/app/build/intermediates/pre-dexed/release/com.android.support-support-vector-drawable-25.1.0_2c4614300d1e02a81c24dc7e81d9858e110c0091.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/levis/AndroidStudioProjects/DicewareLite/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/home/levis/AndroidStudioProjects/DicewareLite/app/build/intermediates/pre-dexed/release/com.android.support-animated-vector-drawable-25.1.0_198a09a769d4a31ce46dce21f6b045eef6d8c504.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/levis/AndroidStudioProjects/DicewareLite/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/home/levis/AndroidStudioProjects/DicewareLite/app/build/intermediates/pre-dexed/release/com.android.support-support-core-utils-25.1.0_ffcb9dfd0b59789034a48ff3ba2f8e739171c92d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/levis/AndroidStudioProjects/DicewareLite2/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/home/levis/AndroidStudioProjects/DicewareLite2/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.0_94d70eaf5742b2693463a8b04a4d73b0ef6b11c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/levis/AndroidStudioProjects/DicewareLite2/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="/home/levis/AndroidStudioProjects/DicewareLite2/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.1.0_a7108fa270b0e18f93eb49b68849fc2f174dc48f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/levis/AndroidStudioProjects/DicewareLite3/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/levis/AndroidStudioProjects/DicewareLite3/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.0_5e22c926aba60f5093a9bf190472f7b19dbc6174.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/levis/AndroidStudioProjects/DicewareLite2/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/home/levis/AndroidStudioProjects/DicewareLite2/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.0_9e91835c69e5dc56e71a079fc4edc07e54eceb4b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/levis/AndroidStudioProjects/DicewareLite2/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="/home/levis/AndroidStudioProjects/DicewareLite2/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.1.0_d7572ceff4ed563594215efb210c3b47058c3b78.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/levis/AndroidStudioProjects/DicewareLite/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/home/levis/AndroidStudioProjects/DicewareLite/app/build/intermediates/pre-dexed/release/com.android.support-support-compat-25.1.0_334c69b664b61093a407096b80ae890d22d06b06.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/levis/AndroidStudioProjects/DicewareLite2/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/levis/AndroidStudioProjects/DicewareLite2/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.0_bb7d05308e0a76ef9398d9d5bcd529b777815a67.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/levis/AndroidStudioProjects/DicewareLite/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/levis/AndroidStudioProjects/DicewareLite/app/build/intermediates/pre-dexed/release/com.android.support-support-v4-25.1.0_069a87cfcf4a5fe04bb4a005db20999af12acd42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/levis/AndroidStudioProjects/DicewareLite/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/home/levis/AndroidStudioProjects/DicewareLite/app/build/intermediates/pre-dexed/release/com.android.support-appcompat-v7-25.1.0_c7b2fef21a25dd7ee70c851836f3a9baac2992f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/levis/AndroidStudioProjects/DicewareLite/app/build/intermediates/exploded-aar/com.scottyab/aescrypt/0.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="439f1fa08fbc88d31ffdb11d80a13211689da6aa">
+        <dex dex="/home/levis/AndroidStudioProjects/DicewareLite/app/build/intermediates/pre-dexed/release/com.scottyab-aescrypt-0.0.1_ef38b3a6a06de1d57d8ea255d106b2c52e820013.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/levis/AndroidStudioProjects/DicewareLite/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="/home/levis/AndroidStudioProjects/DicewareLite/app/build/intermediates/pre-dexed/release/com.android.support-transition-25.1.0_327414186802343d36f89fdae90a231e85abcc7c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/levis/AndroidStudioProjects/DicewareLite3/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/home/levis/AndroidStudioProjects/DicewareLite3/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.0_f98db729166a5e0dec58c4119e264dc87905ecd1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/levis/AndroidStudioProjects/DicewareLite/app/build/intermediates/exploded-aar/cn.carbs.android/AvatarImageView/1.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b15effbf15b84c2cb37f6b81dd4eb0c89b4b6b0a">
+        <dex dex="/home/levis/AndroidStudioProjects/DicewareLite/app/build/intermediates/pre-dexed/release/cn.carbs.android-AvatarImageView-1.0.2_782b135947378b40be52028b28fb8f6dc19eb725.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/levis/AndroidStudioProjects/DicewareLite3/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/home/levis/AndroidStudioProjects/DicewareLite3/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.0_f85fa7b25c896806fe9275c82f539b1738beb930.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/levis/AndroidStudioProjects/DicewareLite3/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/home/levis/AndroidStudioProjects/DicewareLite3/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.0_ce8a26d013dfe83d629a3347ad880d3e449bc8e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/levis/AndroidStudioProjects/DicewareLite3/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/home/levis/AndroidStudioProjects/DicewareLite3/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.0_07414db939dcea1675aa6526e2b93cf2abcf31ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/levis/AndroidStudioProjects/DicewareLite/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="/home/levis/AndroidStudioProjects/DicewareLite/app/build/intermediates/pre-dexed/release/com.android.support-recyclerview-v7-25.1.0_fc199ad6ac718e1da2ee12d5a6d6d482e23f107d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/levis/AndroidStudioProjects/DicewareLite2/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/home/levis/AndroidStudioProjects/DicewareLite2/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.0_3edc79b0b274a15cacf3453ad45e20650578876e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/levis/AndroidStudioProjects/DicewareLite3/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="/home/levis/AndroidStudioProjects/DicewareLite3/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.1.0_7958d77505459495b607bbd5e2e4fbc0a105e72a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/levis/AndroidStudioProjects/DicewareLite/app/build/intermediates/exploded-aar/io.reactivex/rxandroid/1.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="927e8ef5711b115b65b2f35495d77352be2b3c09">
+        <dex dex="/home/levis/AndroidStudioProjects/DicewareLite/app/build/intermediates/pre-dexed/release/io.reactivex-rxandroid-1.2.0_e20f868f573ec45877c2325226c2bf38254e95d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/levis/AndroidStudioProjects/DicewareLite2/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/home/levis/AndroidStudioProjects/DicewareLite2/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.0_b67530897bd2961a31dbb19bff0497ac93e5005c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/levis/AndroidStudioProjects/DicewareLite2/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/home/levis/AndroidStudioProjects/DicewareLite2/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.0_32979f228cfa18a9dae6e9155e9d236ce5ed687e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/levis/AndroidStudioProjects/DicewareLite/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="/home/levis/AndroidStudioProjects/DicewareLite/app/build/intermediates/pre-dexed/release/com.android.support-design-25.1.0_e713864be88502e62c8a23eeb53e6ab5e5c0b5b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/levis/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/home/levis/AndroidStudioProjects/DicewareLite/app/build/intermediates/pre-dexed/release/support-annotations-25.1.0_e40d08d4c1fadeb9ab78ef888dbb571361ce1223.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/levis/AndroidStudioProjects/DicewareLite2/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/home/levis/AndroidStudioProjects/DicewareLite2/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.0_b40329743692c883c6e7f908697cba2b82e012c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/levis/AndroidStudioProjects/DicewareLite/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/home/levis/AndroidStudioProjects/DicewareLite/app/build/intermediates/pre-dexed/release/com.android.support-support-fragment-25.1.0_545dfb8dbe779eea682add955ad1f670d2cd2aa8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/levis/AndroidStudioProjects/DicewareLite3/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="/home/levis/AndroidStudioProjects/DicewareLite3/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.1.0_9770b840cf99d2b64dc972498382f1d4621f9317.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/levis/AndroidStudioProjects/DicewareLite3/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/home/levis/AndroidStudioProjects/DicewareLite3/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.0_e591ac86ce555eea386dce7e05d0cb4105df6b8e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/levis/AndroidStudioProjects/DicewareLite2/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/home/levis/AndroidStudioProjects/DicewareLite2/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.0_7eb4bd1a7bbaf6f239c9b330023622f49b44e924.jar" />
+    </item>
+
+</items>

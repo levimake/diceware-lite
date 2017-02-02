@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory android:title="General">
+
+        <ListPreference
+            android:key="prefType"
+            android:summary="Type of your password"
+            android:title="Type"
+            android:entries="@array/password_type"
+            android:entryValues="@array/password_type_values"
+            android:defaultValue="passphrase"
+            />
+
+        <EditTextPreference
+            android:key="prefNumberOfWords"
+            android:summary="Strength of your password"
+            android:title="@string/pref_number_of_words"
+            android:inputType="number"
+            android:maxLines="1"
+            android:defaultValue="5"/>
+
+        <ListPreference
+            android:entries="@array/how_create_password"
+            android:entryValues="@array/how_create_password_values"
+            android:key="prefSource"
+            android:summary="How your password is created"
+            android:title="Source"
+            android:defaultValue="dice"/>
+
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="Passphrase">
+
+       <ListPreference
+            android:entries="@array/diceware_language_list"
+            android:entryValues="@array/diceware_language_list_values"
+            android:key="prefLanguage"
+            android:summary="The password language"
+            android:title="Language"
+           android:defaultValue="english"/>
+
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="Advanced">
+
+        <SwitchPreference
+            android:title="Spaces"
+            android:summary="Adds spaces between words or characters"
+            android:key="prefSpaces"
+            android:defaultValue="true"
+            />
+
+        <SwitchPreference
+            android:title="Editable"
+            android:summary="Edit your password before copying"
+            android:key="prefEditable"
+            android:defaultValue="false"
+            />
+
+        <SwitchPreference
+            android:title="Auto Assistant"
+            android:summary="Automatically chooses the preferred settings for best passwords"
+            android:key="prefAssistant"
+            android:defaultValue="true"
+            />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="Diceware" >
+
+        <Preference android:title="Credits"
+            android:key="prefCredits" />
+
+    </PreferenceCategory>
+
+
+
+
+</PreferenceScreen>
+
